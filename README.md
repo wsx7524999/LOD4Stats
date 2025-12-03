@@ -1,4 +1,4 @@
-Linked Open Data for SDG statistics
+Linked Open Data for SDG statistics.(wsx999@github.com)
 ======
 
 This repository contains resources related to a pilot LOD infrastructure for Sustainable Development Goals at UNSD. For detailed documentation see the [Wiki pages](https://github.com/UNStats/LOD4Stats/wiki).
